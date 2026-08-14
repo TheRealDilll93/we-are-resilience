@@ -1,0 +1,26 @@
+# RESILIENCE Agentic Solutions
+
+> Senior engineering on demand — custom software, websites and apps, autonomous AI agents, and secure on-chain systems. Built from a blank repo to endure. Real engineering. Real intelligence. Built to endure. Based in Miami, serving the UAE and clients worldwide.
+
+RESILIENCE is a senior engineering practice. Every engagement is written from a blank repository on the current frontier of the toolchain, with security treated as a build-time concern. The practice offers engineering, advisory, and investigation only — no tokens, no managed money, no performance or return claims.
+
+## Services
+
+- [Software Development](https://we-are-resilience.com/services/software-development)
+- [Websites & Apps](https://we-are-resilience.com/services/websites-and-apps)
+- [Agentic AI & Automation](https://we-are-resilience.com/services/agentic-ai)
+- [Blockchain & Smart Contracts](https://we-are-resilience.com/services/blockchain)
+
+## Key pages
+
+- [Services overview](https://we-are-resilience.com/services)
+- [Work](https://we-are-resilience.com/work)
+- [About](https://we-are-resilience.com/about)
+- [Resources](https://we-are-resilience.com/resources)
+- [Contact](https://we-are-resilience.com/contact)
+
+## Contact
+
+- Email: info@we-are-resilience.com
+- Reach: Miami · UAE · Worldwide
+- Canonical: https://we-are-resilience.com/llms.txt
